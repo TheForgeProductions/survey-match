@@ -1,4 +1,4 @@
-const friends = require('friends');
+const friends = require('./data/friends');
 const matcher = (req) => {
     for (let i=friends.length-1; i>=0; i--) {
         var lowest = 40;
