@@ -78,7 +78,7 @@ const matcher = (req) => {
             lowest = totalDifference;
             bestMatch = friends[i];
             i++;
-        }s
+        }
     }
     return bestMatch;
 }
