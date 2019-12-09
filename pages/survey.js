@@ -53,16 +53,16 @@ const friends = [
         "name": "dude4",
         "photo": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F71%2F41%2Ffc%2F7141fc049eee4295af410c5b8642c043.jpg&f=1&nofb=1",
         "scores": [
-            5,
-            5,
-            5,
-            5,
-            5,
-            5,
-            5,
-            5,
-            5,
-            5
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
         ]
     }
 ];
